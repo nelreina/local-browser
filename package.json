@@ -1,0 +1,15 @@
+{
+  "name": "local-browser",
+  "version": "1.0.0",
+  "description": "Just a local browser",
+  "main": "main.js",
+  "author": "Nelson Reina",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "electron": "^2.0.2"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
